@@ -1,3 +1,3 @@
-# Portfolio with React
+# Hi
 
-With React we can easily change the content of the page with components.
+It's me!
